@@ -20,11 +20,11 @@ symmetrisk. (Fig. 1a & 1b, [1.1](#r1-1))
 ## 1.1 Dimensjoner
 {: #r1-1}
 
-Banen er et rektangel som måler 18 x 9 m, omgitt av en frisone som er minimum 3 m 
+Banen er et rektangel som måler 18&nbsp;×&nbsp;9&nbsp;m, omgitt av en frisone som er minimum 3&nbsp;m 
 bred på alle sider.
 
 Det frie spillerommet er rommet over spilleområdet som er fri for enhver hindring. Det 
-frie spillerommet skal være minimum 7 m høyt fra spilleflaten.[^1] (Fig. 2)
+frie spillerommet skal være minimum 7&nbsp;m høyt fra spilleflaten.[^1] (Fig. 2)
 
 ## 1.2 Spilleflaten
 {: #r1-2}
@@ -40,7 +40,7 @@ I innendørsanlegg skal overflaten på spillebanen være av en lys farge.[^3]
 
 ### 1.2.3 
 {: #r1-2-3}
-På utendørsbaner tillates en helning på 5 mm pr. meter for drenering. Banelinjer laget av 
+På utendørsbaner tillates en helning på 5&nbsp;mm pr. meter for drenering. Banelinjer laget av 
 fast materiale er forbudt. ([1.3](#r1-3))
 
 ## 1.3 Banens linjer
@@ -48,7 +48,7 @@ fast materiale er forbudt. ([1.3](#r1-3))
 
 ### 1.3.1 
 {: #r1-3-1}
-Alle linjer er 5 cm brede. De skal være lyse og ha en annen farge enn gulvet og alle 
+Alle linjer er 5&nbsp;cm brede. De skal være lyse og ha en annen farge enn gulvet og alle 
 andre linjer. (Fig. 2, [1.2.2](#r1-2-2))
 
 ### 1.3.2 Grenselinjer
@@ -59,12 +59,12 @@ baklinjene er inkludert i banens mål. ([1.1](#r1-1))
 ### 1.3.3 Midtlinje
 {: #r1-3-3}
 Aksen gjennom midtlinjen deler banen i to banehalvdeler som hver 
-måler 9 m x 9 m. Hele linjens bredde anses imidlertid å tilhøre begge banehalvdelene.  
+måler 9&nbsp;×&nbsp;9&nbsp;m. Hele linjens bredde anses imidlertid å tilhøre begge banehalvdelene.  
 Denne linjen går under nettet, fra sidelinje til sidelinje. (Fig. 2)
 
 ### 1.3.4 Angrepslinje 
 {: #r1-3-4}
-På hver banehalvdel trekkes en angrepslinje 3 m fra aksen gjennom midtlinjen. Denne 
+På hver banehalvdel trekkes en angrepslinje 3&nbsp;m fra aksen gjennom midtlinjen. Denne 
 linjen markerer frontsonen.[^4] ([1.3.3](#r1-3-3), [1.4.1](#r1-4-1))
 
 ## 1.4 Soner og områder
@@ -79,8 +79,8 @@ Frontsonen anses å fortsette utenfor sidelinjene til enden av frisonen.
 
 ### 1.4.2 Servesonen
 {: #r1-4-2}
-Servesonen er et 9 m bredt område bak begge baklinjene.  
-Den er begrenset i side av to korte linjer, hver på 15 cm lengde, trukket 20 cm bak 
+Servesonen er et 9&nbsp;m bredt område bak begge baklinjene.  
+Den er begrenset i side av to korte linjer, hver på 15&nbsp;cm lengde, trukket 20&nbsp;cm bak 
 baklinjen som en fortsettelse av sidelinjene. Begge de korte linjene er inkludert i 
 servesonens bredde.
 
@@ -103,18 +103,18 @@ angrepslinja og baklinja, på samme side som spillerbenkene.
 
 ## 1.5 Temperatur
 {: #r1-5}
-Minimumstemperaturen skal ikke være under 10° C (50° F).[^6]
+Minimumstemperaturen skal ikke være under 10°&nbsp;C (50°&nbsp;F).[^6]
 
 ## 1.6 Belysning[^7]
 {: #r1-6}
-Belysningen skal være minst 300 lux.
+Belysningen skal være minst 300&nbsp;lux.
 
 ## Fotnoter
 
 [^1]:
-    I verdensomfattende FIVB-konkurranser skal frisonen være på minst 5 m fra
-    sidelinjene og 6,5 m fra baklinjene. Det frie spillerommet skal måle minimum
-    12,5 m fra spilleflaten.
+    I verdensomfattende FIVB-konkurranser skal frisonen være på minst 5&nbsp;m fra
+    sidelinjene og 6,5&nbsp;m fra baklinjene. Det frie spillerommet skal måle minimum
+    12,5&nbsp;m fra spilleflaten.
 
 [^2]:
     I verdensomfattende FIVB-konkurranser tillates bare parkettgulv eller gulv
@@ -127,23 +127,23 @@ Belysningen skal være minst 300 lux.
 
 [^4]:
     I verdensomfattende FIVB-konkurranser forlenges angrepslinjen ved å legge
-    til brudte linjer utenfor sidelinjene, med 15 cm lange linjer som er 5 cm brede,
-    trukket med en avstand på 20 cm fra hverandre til en total lengde på 1,75 m. 
+    til brudte linjer utenfor sidelinjene, med 15&nbsp;cm lange linjer som er 5&nbsp;cm brede,
+    trukket med en avstand på 20&nbsp;cm fra hverandre til en total lengde på 1,75&nbsp;m. 
     «Trenerlinje» som markerer treneren sin begrensning i forhold til banen,
     er en brutt linje som strekker seg fra enden av angrepslinja til bak linja,
-    parallelt med sidelinjen og 1,75 meter fra denne.  Den består av 15 cm korte
-    linjer med 20 cm mellomrom.
+    parallelt med sidelinjen og 1,75&nbsp;meter fra denne.  Den består av 15&nbsp;cm korte
+    linjer med 20&nbsp;cm mellomrom.
 
 [^5]:
-    I verdensomfattende FIVB-konkurranser er oppvarmingsområder på ca. 3 x 3 m
+    I verdensomfattende FIVB-konkurranser er oppvarmingsområder på ca. 3&nbsp;×&nbsp;3&nbsp;m
     plassert i hjørnene av hallen på samme side som spillerbenkene og utenfor
     friområdet (fig. 1), eller alternativt bak spillerbenkene.
 
 [^6]:
     I verdensomfattende FIVB-konkurranser skal maksimumstemperaturen ikke være
-    over 25° C (77° F) og minimumstemperaturen ikke under 16° C (61° F).
+    over 25° C (77° F) og minimumstemperaturen ikke under 16°&nbsp;C (61°&nbsp;F).
 
 [^7]:
     I verdensomfattende FIVB-konkurranser skal belysningen være av en slik styrke
-    at den måler mellom 1000 og 1500 lux 1 m over spilleflaten.
+    at den måler mellom 1000 og 1500&nbsp;lux 1&nbsp;m over spilleflaten.
 
